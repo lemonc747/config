@@ -28,8 +28,8 @@
 
     "sourceMap": true,
     "baseUrl": ".",
+    "?paths": "搭配webpack的alias使用",
     "paths": {
-      // "@/*": ["./src/*"],
       "src/*": ["./src/*"],
       "main/*": ["./main/*"],
       "common/*": ["./common/*"],
