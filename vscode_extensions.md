@@ -6,8 +6,8 @@ styles
 
 coding
 1. Visual Studio IntelliCode: AI-assisted development
-2. ESLint: 代码检查 for js/jsx/ts/tsx
-3. ESLint: 代码检查 for js/jsx/ts/tsx
+2. ESLint: 代码格式检查 & 代码质量检查
+3. Prettier: 代码格式检查
 
 utility
 1. Open In Default Browser: A VSCode extension to fast open html file in browser
